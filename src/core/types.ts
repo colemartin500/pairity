@@ -1,0 +1,1 @@
+export type BackgroundColor = "#bb00d7" | "#2580f0";
